@@ -2,7 +2,7 @@ package com.cg.trg.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
+import jakarta.persistence.GenerationTyp;
 import jakarta.persistence.I;
 
 @Entity
