@@ -10,7 +10,7 @@ public class Order_info {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private long orderId;
+	private long orderI;
 	private String orderName;
 	private String email;
 	private boolean orderStatus;
